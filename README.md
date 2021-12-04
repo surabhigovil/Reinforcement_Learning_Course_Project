@@ -6,9 +6,13 @@ A policy trained to act based on observations is policy gradient. How this works
 
 The attention mechanism used in Loung as we can see significant advantage over Bahdanau. 
 ![image](https://user-images.githubusercontent.com/10840984/144695376-aa3b3a1b-ffc7-4161-9361-dde143e0b38e.png)
-The Bahdanau Architecture (Left) vs. the Luong Architecture (Right). !(https://www.amazon.com/Advanced-Deep-Learning-Python-next-generation/dp/178995617X) Taken from “Advanced Deep Learning with Python“
+
+The Bahdanau Architecture (Left) vs. the Luong Architecture (Right). Taken from [“Advanced Deep Learning with Python“] (https://www.amazon.com/Advanced-Deep-Learning-Python-next-generation/dp/178995617X)
+
 ## Rewards:
 Ease of answering, Information flow and Semantic Coherence
+
 # Results  
 
 # Demo
+![image](https://user-images.githubusercontent.com/10840984/144695651-39ec2d3b-578a-43e2-b4d1-71395884b843.png)
